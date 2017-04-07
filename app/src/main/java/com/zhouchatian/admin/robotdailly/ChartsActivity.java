@@ -22,7 +22,7 @@ import lecho.lib.hellocharts.view.LineChartView;
 /**
  * Created by  Mr.Robot on 2017/3/26.
  * zhouchatain@gmail.com
- * GitHub:TheSadFrog
+ * GitHub:https://github.com/TheSadFrog
  */
 
 public class ChartsActivity extends Activity {
