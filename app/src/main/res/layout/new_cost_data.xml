@@ -17,7 +17,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="4dp"
-        android:hint="Cost Money"/>
+        android:hint="Cost Money"
+        android:inputType="number"/>
 
     <DatePicker
         android:id="@+id/dp_cost_date"
